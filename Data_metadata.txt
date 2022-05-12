@@ -1,0 +1,21 @@
+This Reserch was done for Rwanda
+
+Here is the link to the data:
+
+https://mega.nz/file/ga4mURiA#P7vzECbu5O2BHrKniloT3Uw4apXlg8ZZAslP_cAwMcg
+
+Definitions:
+
+1.Aspect = derived from didgital elevation model
+2. Curvature = derived from didgital elevation model
+3. Driver = Distance to the river
+4. Droad: Distance to the road
+5. Elevetion
+6. NDWI: Normalized Difference wATER Index (NWSI) = NDSI
+7. NDVI: Normalized Difference vEGETATION Index (NDVI) 
+8. rAINFALL
+9. Slope.
+10.TWI: Topographic Wetbess Index
+
+
+Flood data: Flood point has been collected from govet Agencise for the country of Rwanda where 1 means flood and 0 mena no flood
